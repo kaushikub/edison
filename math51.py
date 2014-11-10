@@ -17,7 +17,7 @@ def prime_number(number):
 			return 0
 		else:
 			count += 1
-	if temp! = 0:
+	if temp != 0:
 		return number
 
 def factors(number):
