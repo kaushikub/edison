@@ -33,8 +33,8 @@ def even_odd_number(number):
 	else:
 		return 'odd'
 
-def start()
-	
+def start():
+
 	### Initialize variables 
 	points_earned = 1
 
